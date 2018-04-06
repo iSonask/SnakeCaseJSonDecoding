@@ -1,0 +1,6 @@
+framework module Pods_SWIFT41JsonDecoder {
+  umbrella header "Pods-SWIFT41JsonDecoder-umbrella.h"
+
+  export *
+  module * { export * }
+}
